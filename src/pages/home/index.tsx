@@ -7,6 +7,8 @@ export function Home(){
             <span>First page with navigation!</span>
             <br/>
             <Link to="/about">About</Link>
+            <br/>
+            <Link to="/contact">Contact</Link>
         </div>
     )
 }
